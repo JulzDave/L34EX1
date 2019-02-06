@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.Allrooms{
+  margin-top: 25px;
+  width:500px;
+  display: block;
+  margin: auto;
+  margin-top:50px;
+}
+
+.aRoom{
+float:left;
+height:100px;
+width:100px;
+border:1px solid black;
+margin-right:50px;
+margin-bottom: 50px;
+line-height: 100px;
+}
+
+.red{
+  background: red;
+}
+
+.green{
+  background: green;
+}
